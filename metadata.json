@@ -2,9 +2,9 @@
   "name": "puppetlabs-apply",
   "version": "0.1.0",
   "author": "puppet",
-  "summary": "",
+  "summary": "Apply Puppet resources using tasks",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/puppetlabs/puppetlabs-apply",
   "dependencies": [
 
   ],
